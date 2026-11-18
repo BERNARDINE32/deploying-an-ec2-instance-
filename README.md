@@ -1,1 +1,1 @@
-# deploying-an-ec2-instance-
+# Creating AWS CloudWatch Monitoring and Alerts.
